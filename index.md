@@ -7,3 +7,6 @@ image of dog
 ``` python
 x="mulearn"
 ```
+
+- [x] start mulearn
+- [ ] start javascript
